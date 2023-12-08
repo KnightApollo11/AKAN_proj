@@ -1,0 +1,81 @@
+body {
+  background-image: url("../images/grey.png");
+  opacity:0.9; 
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  	color: black;
+  	text-align: center;
+  	font-style: bold;
+}
+
+h2{
+	color: black;
+	text-align: left;
+	font-style: bold;
+}
+h3{
+	color: red;
+	text-align: left;
+	font-style: bold;
+}
+
+p{
+	color:black;
+	text-align: left;
+	font-style: bold;
+	font-size: 5;
+}
+a{
+	color:black;
+	font-style: italic;
+	font-size: 1;
+}
+.center{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 10%;
+  	height: 10%;
+  	border: 5px solid #555;
+
+}
+table {
+  border-style: dotted;
+  width: 50%;
+  border-collapse: collapse;
+}
+
+
+.my-table{
+	color: black;
+	float: left;
+	text-align: center;
+	font-style: bold;
+	font-family: Comic-Sans-MS;
+	width: 50%;
+
+}
+.my-selection{
+	float: right;
+	text-align: left;
+	font-style: bold;
+	font-size: 5;
+	width: 50%;
+
+}
+
+
+}
+card-footer{
+	text-align: center;
+	color: red;
+	font-style: bold;
+	font-family: Comic-Sans-MS;
+
+}
